@@ -74,4 +74,8 @@ const clearAll = () => {
     localStorage.removeItem('cart');
  }
 
+
+
+ 
+
  //Milon --------end
